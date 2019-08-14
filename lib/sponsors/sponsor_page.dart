@@ -12,28 +12,22 @@ class SponsorPage extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/logos/gd.png",
+            imgUrl: "https://secure.meetupstatic.com/photos/event/7/a/8/f/600_481351375.jpeg",
           ),
           SizedBox(
             height: 30,
           ),
+
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/jetbrains.png",
-          ),
-          SizedBox(
-            height: 30,
-          ),
-          SponsorImage(
-            imgUrl:
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/220px-Kotlin-logo.svg.png",
+            imgUrl: "https://www.be-teal.com/wp-content/uploads/2017/04/WT_logo_2lines_pos-e1491910133589.png",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
             imgUrl:
-                "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png",
-          )
+            "https://gdg-pune-devfest19.firebaseapp.com/images/gdg_cloud_pune_logo.png",
+          ),
         ],
       ),
       title: "Sponsors",

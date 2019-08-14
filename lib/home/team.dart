@@ -119,6 +119,17 @@ List<Team> teams = [
   ),
 
   Team(
+    name: "Utkarsh Wagh",
+    desc: "Organiser",
+    contribution: "GDG Cloud Pune",
+    image:
+    "https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/32748905_10156359739439706_827968307670810624_n.jpg?_nc_cat=107&_nc_oc=AQnqmke7VgdlYopaTPNdyCW93nRqomLru4y6oXMCU6C695ZoRDezMS3pRn4WWVNJxxSnfwMNvBHILFAn7WH9qllj&_nc_ht=scontent.fnag1-1.fna&oh=126622f58148dcab55551b3f54399bf6&oe=5DDC9582",
+    fbUrl: "https://www.facebook.com/utkarsh.iitd",
+    twitterUrl: "https://twitter.com/utkarsh_wagh",
+    linkedinUrl: "https://www.linkedin.com/in/utkarshwagh/",
+  ),
+  
+  Team(
     name: "Gautam Chitnis",
     desc: "Co Organiser",
     contribution: "GDG Cloud Pune",
@@ -129,14 +140,4 @@ List<Team> teams = [
     linkedinUrl: "https://www.linkedin.com/in/gautam-chitnis/",
   ),
 
-  Team(
-    name: "Utkarsh Wagh",
-    desc: "Organiser",
-    contribution: "GDG Cloud Pune",
-    image:
-    "https://scontent.fnag1-1.fna.fbcdn.net/v/t1.0-9/32748905_10156359739439706_827968307670810624_n.jpg?_nc_cat=107&_nc_oc=AQnqmke7VgdlYopaTPNdyCW93nRqomLru4y6oXMCU6C695ZoRDezMS3pRn4WWVNJxxSnfwMNvBHILFAn7WH9qllj&_nc_ht=scontent.fnag1-1.fna&oh=126622f58148dcab55551b3f54399bf6&oe=5DDC9582",
-    fbUrl: "https://www.facebook.com/utkarsh.iitd",
-    twitterUrl: "https://twitter.com/utkarsh_wagh",
-    linkedinUrl: "https://www.linkedin.com/in/utkarshwagh/",
-  ),
 ];
