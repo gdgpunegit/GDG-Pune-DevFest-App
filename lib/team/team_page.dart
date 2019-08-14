@@ -44,15 +44,6 @@ class TeamPage extends StatelessWidget {
                 launch(speakers[0].linkedinUrl);
               },
             ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.github,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speakers[0].githubUrl);
-              },
-            ),
           ],
         ),
       );
