@@ -1,4 +1,5 @@
-# GDG Pune DevFest App 
+# GDG Pune DevFest App [![Build Status](https://travis-ci.org/PatilShreyas/GDG-Pune-DevFest-App.svg?branch=master)](https://travis-ci.org/PatilShreyas/GDG-Pune-DevFest-App) [![Codemagic build status](https://api.codemagic.io/apps/5d541cd5bab5d9000f119d02/5d541cd5bab5d9000f119d01/status_badge.svg)](https://codemagic.io/apps/5d541cd5bab5d9000f119d02/5d541cd5bab5d9000f119d01/latest_build)
+
 <p align="center">
 <img width="800px"  src="https://i.imgur.com/P21Hk0u.png">
 </p>
