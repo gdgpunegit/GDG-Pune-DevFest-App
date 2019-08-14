@@ -50,7 +50,7 @@ If you try to build the project straight away, you'll get an error complaining t
 
     ```
         static const String app_name = “Devfest”;
-        static const String app_version = “Version 1.0.4”;
+        static const String app_version = “Version 1.0.0”;
         static const int app_version_code = 1;
 
         //*  Texts
