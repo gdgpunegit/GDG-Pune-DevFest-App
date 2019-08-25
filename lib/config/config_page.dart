@@ -6,6 +6,7 @@ import 'package:flutter_devfest/faq/faq_page.dart';
 import 'package:flutter_devfest/find_devfest/find_devfest_page.dart';
 import 'package:flutter_devfest/home/home_page.dart';
 import 'package:flutter_devfest/map/map_page.dart';
+import 'package:flutter_devfest/speakers/speaker_page.dart';
 import 'package:flutter_devfest/sponsors/sponsor_page.dart';
 import 'package:flutter_devfest/team/team_page.dart';
 import 'package:flutter_devfest/utils/devfest.dart';
@@ -62,8 +63,7 @@ class _ConfigPageState extends State<ConfigPage> {
             home: HomePage(),
             routes: {
               HomePage.routeName: (context) => HomePage(),
-              // TODO: Add Speaker Page
-              // SpeakerPage.routeName: (context) => SpeakerPage(),
+              SpeakerPage.routeName: (context) => SpeakerPage(),
               AgendaPage.routeName: (context) => AgendaPage(),
               SponsorPage.routeName: (context) => SponsorPage(),
               TeamPage.routeName: (context) => TeamPage(),

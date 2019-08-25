@@ -19,15 +19,6 @@ class TeamPage extends StatelessWidget {
           children: <Widget>[
             IconButton(
               icon: Icon(
-                FontAwesomeIcons.facebookF,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speakers[0].fbUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
                 FontAwesomeIcons.twitter,
                 size: 15,
               ),

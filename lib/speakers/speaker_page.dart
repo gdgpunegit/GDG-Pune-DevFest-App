@@ -20,15 +20,6 @@ class SpeakerPage extends StatelessWidget {
           children: <Widget>[
             IconButton(
               icon: Icon(
-                FontAwesomeIcons.facebookF,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.fbUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
                 FontAwesomeIcons.twitter,
                 size: 15,
               ),
@@ -43,15 +34,6 @@ class SpeakerPage extends StatelessWidget {
               ),
               onPressed: () {
                 launch(speaker.linkedinUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.github,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.githubUrl);
               },
             ),
           ],
